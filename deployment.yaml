@@ -18,7 +18,7 @@ spec:
         app: be-geomaps-python
     spec:
       containers:
-      - image: razeonex/geomaps-python:v0.0.3
+      - image: razeonex/geomaps-python:v0.0.4
         name: geomaps-python
         resources: {}
 status: {}
